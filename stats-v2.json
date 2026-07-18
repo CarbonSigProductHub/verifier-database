@@ -1,0 +1,38 @@
+{
+  "count": 769,
+  "avgConfidence": 0.696,
+  "byLevel": {
+    "high": 387,
+    "medium": 289,
+    "low": 93
+  },
+  "byType": {
+    "firm": 652,
+    "individual-practice": 117
+  },
+  "withYearEstablished": 404,
+  "countriesRepresented": 65,
+  "topCountries": {
+    "United States": 101,
+    "Germany": 79,
+    "Australia": 39,
+    "India": 34,
+    "United Kingdom": 34,
+    "Canada": 32,
+    "Norway": 32,
+    "France": 27,
+    "China": 26,
+    "Mexico": 24,
+    "South Korea": 20,
+    "Thailand": 20,
+    "Spain": 17,
+    "Unknown": 17,
+    "Poland": 16,
+    "Japan": 16,
+    "Greece": 15,
+    "Singapore": 13,
+    "Colombia": 12,
+    "Italy": 12
+  },
+  "excludedNonCarbon": 17
+}

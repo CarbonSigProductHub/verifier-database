@@ -1,0 +1,189 @@
+[
+ {
+  "nameKey": "350 org",
+  "name": "350.org",
+  "registries": [
+   "isometric"
+  ],
+  "reason": "NGO/climate advocacy organization, not a third-party verification provider",
+  "proofUrls": [
+   "https://isometric.com/governance-policies"
+  ]
+ },
+ {
+  "nameKey": "abs europe",
+  "name": "ABS Europe Ltd",
+  "registries": [
+   "ukas"
+  ],
+  "reason": "Marine classification society (part of American Bureau of Shipping), not a carbon/GHG verifier",
+  "proofUrls": [
+   "https://www.ukas.com/find-an-organisation/browse-by-category/?type=283"
+  ]
+ },
+ {
+  "nameKey": "abs hellenic s m",
+  "name": "ABS HELLENIC S.M. LTD",
+  "registries": [
+   "esyd"
+  ],
+  "reason": "Marine classification society (ABS subsidiary), not a carbon/GHG verifier",
+  "proofUrls": [
+   "https://esyd.gr/list-of-accredited-verification-bodies-of-greenhouse-gases-emissions/"
+  ]
+ },
+ {
+  "nameKey": "afry finland oy",
+  "name": "AFRY Finland Oy",
+  "registries": [
+   "finas"
+  ],
+  "reason": "EPD preparer/developer, not independent third-party verifier; manages entire EPD process internally including verification",
+  "proofUrls": [
+   "https://www.finas.fi/Scopes/VB05%20M16%202026.pdf"
+  ]
+ },
+ {
+  "nameKey": "best iso certification",
+  "name": "BEST ISO CERTIFICATION CO., LTD.",
+  "registries": [
+   "ias-us"
+  ],
+  "reason": "General ISO certification body; no evidence of carbon/GHG/EPD verification services or accreditations (ISO 14064, ISO 14065, ISO 14067)",
+  "proofUrls": [
+   "https://www.iasonline.org/ias_certificate/vvb-100/"
+  ]
+ },
+ {
+  "nameKey": "brand compliance belgi",
+  "name": "Brand Compliance Belgi\u00eb bv",
+  "registries": [
+   "belac"
+  ],
+  "reason": "Cybersecurity and quality management certification firm. BELAC accreditation is for ISO 27001 certification and CyberFundamentals (CyFun) verification, not carbon/GHG/EPD scope.",
+  "proofUrls": [
+   "https://economie.fgov.be/en/themes/quality-and-safety/accreditation-belac/accredited-bodies/validation-and-verification"
+  ]
+ },
+ {
+  "nameKey": "certup nv",
+  "name": "CERTUP nv",
+  "registries": [
+   "belac"
+  ],
+  "reason": "Quality management systems auditor (ISO 9001, ISO 29993); does not provide carbon/GHG/EPD verification services",
+  "proofUrls": [
+   "https://economie.fgov.be/en/themes/quality-and-safety/accreditation-belac/accredited-bodies/validation-and-verification"
+  ]
+ },
+ {
+  "nameKey": "guteschutz beton nordrhein westfalen beton und fertigteilwerke",
+  "name": "G\u00fcteschutz Beton Nordrhein-Westfalen Beton- und Fertigteilwerke e.V.",
+  "registries": [
+   "dakks"
+  ],
+  "reason": "Concrete and prefabricated building product quality certification body. DAkkS accreditation (since 2011) and notified body status (number 0793) are for compliance with building product standards (DIN EN 45011, DIN EN ISO/IEC 17065:2013, European Building Products Regulation), not for carbon/GHG/EPD verification.",
+  "proofUrls": [
+   "https://www.dakks.de/en/accredited-bodies-search.html"
+  ]
+ },
+ {
+  "nameKey": "jy verification",
+  "name": "JY verification Co., Ltd.",
+  "registries": [
+   "dakks"
+  ],
+  "reason": "No credible evidence found of a company 'JY verification Co., Ltd.' providing third-party carbon/GHG/EPD verification services. DAkkS (the listed registry) is a German accreditation body, not a carbon registry. No website, business registration, or verification credentials identified.",
+  "proofUrls": [
+   "https://www.dakks.de/en/accredited-bodies-search.html"
+  ]
+ },
+ {
+  "nameKey": "korean register",
+  "name": "Korean Register",
+  "registries": [
+   "dakks"
+  ],
+  "reason": "Unable to verify carbon/GHG/EPD verification scope; appears to be classified as general register/regulatory body in korea-ets registry",
+  "proofUrls": [
+   "https://www.dakks.de/en/accredited-bodies-search.html"
+  ]
+ },
+ {
+  "nameKey": "normec",
+  "name": "Normec",
+  "registries": [
+   "puro"
+  ],
+  "reason": "Holding company/TICC group; carbon verification services provided by subsidiaries (Normec Verifavia, Normec OWS)",
+  "proofUrls": [
+   "https://puro.earth/partners-intermediaries/partners/"
+  ]
+ },
+ {
+  "nameKey": "polcargo international sp z o o",
+  "name": "Polcargo International Sp. z o.o.",
+  "registries": [
+   "pca"
+  ],
+  "reason": "Inspection and testing company with some GHG verification work mentioned, but not confirmed as registered third-party carbon verifier or CDM Designated Operational Entity",
+  "proofUrls": [
+   "https://www.kobize.pl/en/article/emissions-monitoring-reporting-verification-in-the-eu-ets/id/432/list-of-accredited-verifiers"
+  ]
+ },
+ {
+  "nameKey": "polski rejestr statk w",
+  "name": "Polski Rejestr Statk\u00f3w S.A.",
+  "registries": [
+   "pca"
+  ],
+  "reason": "Maritime classification society providing ship classification and safety certification, not a carbon/GHG verifier",
+  "proofUrls": [
+   "https://www.kobize.pl/en/article/emissions-monitoring-reporting-verification-in-the-eu-ets/id/432/list-of-accredited-verifiers"
+  ]
+ },
+ {
+  "nameKey": "technick a zku ebni stav stavebni praha s p",
+  "name": "Technick\u00fd a zku\u0161ebn\u00ed \u00fastav stavebn\u00ed Praha, s.p.",
+  "registries": [
+   "cai-cz"
+  ],
+  "reason": "Organization specializes exclusively in construction products testing and certification. Not a greenhouse gas, carbon, or EPD verification body. Scope is construction materials compliance and building certification only.",
+  "proofUrls": [
+   "https://www.cai.cz/?page_id=4499&kategorie_subjektu=validacni-a-overovaci-organy"
+  ]
+ },
+ {
+  "nameKey": "tuv technische uberwachung hessen verifizierungs und validierungsstelle",
+  "name": "T\u00dcV Technische \u00dcberwachung Hessen GmbH Verifizierungs- und Validierungsstelle",
+  "registries": [
+   "dakks"
+  ],
+  "reason": "General verification and validation body under EN ISO/IEC 17029; no evidence of specific carbon/GHG emissions verification scope or climate finance services despite DAKKS accreditation",
+  "proofUrls": [
+   "https://www.dakks.de/en/accredited-bodies-search.html"
+  ]
+ },
+ {
+  "nameKey": "verified carbon credit",
+  "name": "Verified Carbon Credit",
+  "registries": [
+   "puro"
+  ],
+  "reason": "Not a third-party carbon/GHG verifier; appears to be credit type or project designation in PURO registry",
+  "proofUrls": [
+   "https://puro.earth/partners-intermediaries/partners/"
+  ]
+ },
+ {
+  "nameKey": "what a work",
+  "name": "What a Work SRL",
+  "registries": [
+   "belac"
+  ],
+  "reason": "Cybersecurity verifier only; accredited by BELAC for CyFun assurance verification (ISO/IEC 17029), not for carbon/GHG/EPD verification",
+  "proofUrls": [
+   "https://economie.fgov.be/en/themes/quality-and-safety/accreditation-belac/accredited-bodies/validation-and-verification"
+  ]
+ }
+]
